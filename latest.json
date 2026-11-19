@@ -1,8 +1,8 @@
 {
-  "version": "1.0.32",
-  "downloadUrl": "https://github.com/NguyeenLee/svn-fer-releases/releases/download/v1.0.32/LVN-Tools_V1.0.32_20261108.exe",
-  "sha256": "cd6ab10472a8fcd7f7638dcea52588287762dabc11993210c6093377dee7972e",
+  "version": "1.0.35",
+  "downloadUrl": "https://github.com/NguyeenLee/svn-fer-releases/releases/download/v1.0.35/LVN-Tools_V1.0.35_20261119.exe",
+  "sha256": "d06c69e9d571aabf3c702c5e93a6b2f66c47d8aabbbf5c3cd50eedcd03055406",
   "notes": "",
-  "publishedUtc": "2026-11-08T16:58:02.2687316Z",
+  "publishedUtc": "2026-11-19T16:31:59.0598462Z",
   "minRevit": "2022"
 }
